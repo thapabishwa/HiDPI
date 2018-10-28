@@ -1,0 +1,5 @@
+XTerm*faceName:    xft:DejaVu Sans Mono:style=Book:size=8
+XTerm*colorULMode:          true                                                 
+XTerm*colorUL:              #ffffff
+XTerm*colorBDMode:          true
+XTerm*colorBD:              #80fff5
